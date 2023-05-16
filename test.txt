@@ -1,4 +1,0 @@
-hELLo atguigu hello g delete
-second append:
-hello flink 
-hello spark
