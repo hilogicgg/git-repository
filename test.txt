@@ -1,4 +1,4 @@
-hello atguigu hello git
+hello atguigu hello g delete
 second append:
 hello flink 
 hello spark
@@ -7,4 +7,5 @@ third append:
 hello Ysx
 
 final append:
-hello everyOne
+hello everyOne HELLO EVERYoNE append
+hello insert
