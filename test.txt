@@ -2,10 +2,3 @@ hELLo atguigu hello g delete
 second append:
 hello flink 
 hello spark
-
-third append:JJJJJJJJJJJJJJJJJJJJJJJJ
-hello Ysx
-hDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-final append:
-hello everyOne HELLO EVERYoNE append
-hello insert
