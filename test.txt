@@ -1,12 +1,4 @@
-hello at DELETE
+hELLo atguigu hello g delete
 second append:
 hello flink 
 hello spark
-
-third append:
-hello Ysx
-
-final append:
-hello eVERYONE update 
-
-insert line
